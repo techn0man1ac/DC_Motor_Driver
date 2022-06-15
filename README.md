@@ -1,5 +1,8 @@
 # BJT/MOSFET DC Motor Driver
 
+Arduino code:
+https://github.com/techn0man1ac/DC_Motor_Driver/tree/main/DC_Motor_Driver
+
 ![3D_Board](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/3D_Board_Up.png)
 
 - Vin 10..20 V;
