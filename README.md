@@ -1,13 +1,15 @@
 # BJT/MOSFET DC Motor Driver
 
-Arduino code:
-https://github.com/techn0man1ac/DC_Motor_Driver/tree/main/DC_Motor_Driver
-
 ![3D_Board](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/3D_Board_Up.png)
 
 - Vin 10..20 V;
 - PWM(EN pin, active LOW level) up to 1 KHz(with PC817 optocoupler);
 - Current 2..4 A(Q1, Q4 - TIP122 / Q2, Q3 - TIP127, FU1 5A), 3..9 A(Q10, Q6 - IRF9540 / Q9, Q5 -IRF540, FU1 10A).
+
+Arduino code:
+
+https://github.com/techn0man1ac/DC_Motor_Driver/tree/main/DC_Motor_Driver
+
 
 PCB have are 800x522mm, one(blue) or two Layers:
 
