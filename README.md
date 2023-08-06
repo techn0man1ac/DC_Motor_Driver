@@ -21,7 +21,7 @@ The minimum track size is 0.254 mm.
 
 ![3D_Board](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/3D_Board_Up.png)
 
-3D model file
+3D model file:
 
 https://github.com/techn0man1ac/DC_Motor_Driver/tree/main/Board/3D%20model/OBJ_PCB_BJT
 
