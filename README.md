@@ -2,7 +2,7 @@
 
 Fully isolated DC driver for collector motors 3..9 Amps:
 
-![Real board photo](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/DC_Driver_Board_Photo.jpg)
+![Real board photo](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/DC_Driver_Board_Photo.jpg "Real board photo")
 
 Specifications:
 - Vin 10..20 V;
@@ -11,15 +11,16 @@ Specifications:
 
 Schematic(BJT or MOSFET):
 
-![Schematic BJTs/MOSFETs_DC_Motor_driver](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/BJTs_MOSFETs_DC_Motor_driver.png)
+![Schematic BJTs/MOSFETs_DC_Motor_driver](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/BJTs_MOSFETs_DC_Motor_driver.png "Schematic BJTs/MOSFETs_DC_Motor_driver")
   
 PCB have are 800x522mm, one(blue) or two Layers:
 
-![PCB_Board_Layers](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/PCB_Board_Layers.png)
+![PCB_Board_Layers](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/PCB_Board_Layers.png "PCB_Board_Layers")
 
 The minimum track size is 0.254 mm.
 
-![3D_Board](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/3D_Board_Up.png)
+![3D_Board](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/3D_Board_Up.png "3D_Board")
+
 
 3D model file:
 
@@ -35,7 +36,7 @@ https://github.com/techn0man1ac/DC_Motor_Drive/tree/main/Board/Gerbers
 
 Project have are Proteus 8.11 model:
 
-![Proteus 8.11 model](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/Proteus%208%20model.jpg)
+![Proteus 8.11 model](https://raw.githubusercontent.com/techn0man1ac/DC_Motor_Driver/main/Board/Images/Proteus%208%20model.jpg "Proteus 8.11 model")
 
 Arduino code:
 
